@@ -13,3 +13,9 @@ To run this project, install the required dependencies:
 
 ```bash
 pip install librosa matplotlib numpy sounddevice
+```
+
+## Output Example
+
+![Pitch Contour Graph](Sample_plot.png)
+![Frequency Table Output](Table_frequency_vs_time.png)
